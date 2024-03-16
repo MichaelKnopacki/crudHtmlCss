@@ -1,5 +1,3 @@
-
-
 Criado com base em meus estudos afim de praticar HTML e CSS.
 Projeto simples, mas que foi de grande soma para o meu aprendizado.
 
@@ -79,32 +77,4 @@ update_page_1.php
 		Caso ele tenha sido acionado, foi a variável com atributo vinda do formulário HTML é atribuída a outra variável;
 		Dentro da $query foi realizado um "update" indicando a coluna e o id referente ao banco, atualziando com base na  variável que recebeu o valor vindo do formulário HTML.
 		Por último foi feito uma verificação se a atualziação foi realizada com sucesso.
-
-
-
-
-	
-				
-
-	
-	
-		
-				
-
-
-		
-		
-	
-	
-	
-
-		
-
-
-		
-
-		
-			
-	
-
 

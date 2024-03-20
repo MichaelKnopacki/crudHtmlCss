@@ -1,0 +1,43 @@
+#index_título{
+	align-items: center;
+	background-color: green;
+	color: #fff;
+	padding: 20px;
+	letter-spacing: : 2px;
+	font-weight: 500;
+}
+
+#index_rodape{
+	align-items: center;
+	background-color: green;
+	color: #fff;
+	padding: 20px;
+	letter-spacing: : 2px;
+	font-weight: 500;
+}
+
+#botao{
+	float: right;
+}
+
+#quadro1{
+	float: left;
+	margin-bottom: 50px;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+h6{
+	text-align: center;
+	color:red;
+}
+
+#atualizar{
+	color: #98FB98;
+}
+
+#perigo{
+	color: red;
+}
